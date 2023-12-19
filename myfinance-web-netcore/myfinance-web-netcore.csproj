@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-  <ProjectReference Include="..∖myfinance-web-netcore-service∖myfinance-web-netcore-service.csproj" />
-  <ProjectReference Include="..∖myfinance-web-netcore-domain∖myfinance-web-netcore-domain.csproj" />
-  <ProjectReference Include="..∖myfinance-web-netcore-infra∖myfinance-web-netcore-infra.csproj" />
+  <ProjectReference Include="../myfinance-web-netcore-service/myfinance-web-netcore-service.csproj" />
+  <ProjectReference Include="../myfinance-web-netcore-domain/myfinance-web-netcore-domain.csproj" />
+  <ProjectReference Include=". /myfinance-web-netcore-infra/myfinance-web-netcore-infra.csproj" />
   </ItemGroup>
 
 </Project>
